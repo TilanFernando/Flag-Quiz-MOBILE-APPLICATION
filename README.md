@@ -1,2 +1,1 @@
-# Flag-Quiz-MOBILE-APPLICATION
-A mobile application developed to guess country names and flags. 
+A mobile application developed to guess country names and flags using Kotlin(Jetpack Compose). 
